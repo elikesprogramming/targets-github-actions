@@ -17,3 +17,5 @@ Imports:
     tarchetypes,
     targets,
     visNetwork
+URL: https://github.com/elikesprogramming/targets-github-actions
+BugReports: https://github.com/elikesprogramming/targets-github-actions/issues
