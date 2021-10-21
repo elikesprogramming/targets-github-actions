@@ -1,4 +1,4 @@
-source("renv/activate.R")
+# source("renv/activate.R")
 # we are putting all env setup now in a project-level .Rprofile
 # not convinced about this approach, but let's see how it goes
 # don't like that it is not explicitly linked in _targets.R, but ...
